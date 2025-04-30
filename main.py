@@ -22,7 +22,7 @@ while bidders_left == True:
     elif bidders_left == "yes":
         bidders_left = True
 
-    print("\n" * 1)
+    print("\n" * 100)
 
 highest_bid = 0
 winner = ""
